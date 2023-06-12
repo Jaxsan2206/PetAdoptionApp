@@ -1,0 +1,12 @@
+{
+  "name": "adoption",
+  "version": "1.0.0",
+  "description": "A mobile-first app that encourages animal adoption by matching you with animals in your local shelters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
